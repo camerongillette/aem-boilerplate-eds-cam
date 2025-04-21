@@ -10,3 +10,4 @@ export default function decorate(block) {
     `;
   });
 }
+console.log('TESTIMONIAL BLOCK LOADED');
